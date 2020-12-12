@@ -8,7 +8,7 @@ CLAN stands of users that joins the app who will act as for  the army for protec
 
 App is aimed to build awareness on carbon foot print and Climate resilience activities so that each individual can contribute to offset carbon footprint through tiny bits of activities and build their own team to make the impact bigger. 
 
-##Important features of the app incloues
+## Important features of the app incloues
 1. Join the Clan using Invite Code and Pledge: One the user get an invite, they can join the clan. They start with a pledge “Working together, we pledge to play our part and take action on climate change for our country and our planet.”
 2. Carbon Footprint Calculator : A person can use this calculator to get a rough understanding of their Carbon Footprints in an year. It asks for information about their calorie intake, vehicle usage, mileage of vehicle, number of persons at home, Gas usage, electricity usage etc to calculate the carbon foot print. 
 3. Learn: A section to understand more about SDG Goals and climate resilient particles 
